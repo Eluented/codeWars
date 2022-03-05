@@ -1,0 +1,7 @@
+Using the git terminal only I have commited the solution for 2 questions
+Learned that if it is failing to push either force it by using git push -f (which is not ideal)
+
+Or sync your git with the changes by using fetch: 
+git fetch origin master
+git merge origin master
+
