@@ -1,0 +1,7 @@
+Completed some katas using python today was a bit rusty but still not too bad, learnt new methods for both javascript and python - concat() adds an array to another array
+.slice() does not mutate the original array - use it in return statements
+use git pull when the .git file in your pc is not in sync with the repos on github
+the eval() method parses strings with mathematical operator
+min() and max() can work on arrays/lists instead of making two for loops yourself to compare 
+
+suggestion: work on the odin project and get some web dev done to prepare 
